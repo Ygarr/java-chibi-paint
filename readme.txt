@@ -1,4 +1,6 @@
     ChibiPaint
+    
+    http://www.chibipaint.com/downloads.html
 
     Copyright (c) 2006-2008 Marc Schefer
 
